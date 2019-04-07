@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient"
+    android:id="@+id/Rlayout2"
+    tools:context=".faq">
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="1.What is this app about?
+                      2.How does it help to prevent danger?
+                      3.What are the advantages and disadvantages?"
+        android:textSize="15dp"
+        android:textColor="@color/black"
+        />
+    <Button
+        android:id="@+id/back"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="69dp"
+        android:background="@drawable/backg_login"
+        android:text="Back"
+        android:textColor="#000"
+        android:textSize="20dp" />
+
+</RelativeLayout>

@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">SURAKSHA</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Welcome</string>
+    <string name="nav_header_subtitle">Titan safety alert app</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Logout</string>
+    <string name="Altert_type">Alert Detail</string>
+    <string name="Report">Reported Location</string>
+    <string name="Stoloc">Store Location</string>
+    <string name="StoreType">Store type</string>
+    <string name="Brand">Brand</string>
+    <string name="Alertloc">Alert Location/Department</string>
+    <string name="City">City</string>
+    <string name="Description">Alert Description - What happened / What is likely to happen?</string>
+    <string name="causedesp">What was the basic cause(s)?</string>
+    <string name="preventdesp">What has to be done/What could be done to prevent the recurrence?</string>
+    <string name="date">Select Date</string>
+    <string name="time">Select Time</string>
+    <string name="pick_image_intent_text" />
+    <string name="write">Write Here</string>
+    <string name="safety">Safety alert reported by</string>
+
+    <string-array name="ReportedLocations">
+        <item>Select</item>
+        <item>Corperate Office</item>
+        <item>Eyewear Chickballapur</item>
+        <item>Jewellery - Deharadun</item>
+        <item>Jewellery - Hosur</item>
+        <item>Jewellery - Pant Nagar</item>
+        <item>PECSA Hosur</item>
+        <item>Watches - Sikkim</item>
+        <item>RO - East</item>
+        <item>RO - South</item>
+        <item>RO - North</item>
+        <item>RO - West</item>
+        <item>Watches - Coimbatore</item>
+        <item>Watches - Deharadun</item>
+        <item>Watches - Roorkee</item>
+        <item>Watches - Hosur</item>
+        <item>Watches - Pant Nagar</item>
+        <item>MBA Hosur</item>
+        <item>Jwellery - Sikkim</item>
+        <item>Satellite Lens Lab - Kolkata</item>
+    </string-array>
+    <string-array name="StoreTypes">
+        <item>Select</item>
+        <item>Retail</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="Brands">
+        <item>Select</item>
+        <item>Eyeplus</item>
+        <item>Fashion Quotient</item>
+        <item>HELIOS</item>
+        <item>MIA</item>
+        <item>SPECX</item>
+        <item>Tanishq</item>
+        <item>Tanishq LFS</item>
+        <item>WOT</item>
+        <item>ZOYA</item>
+    </string-array>
+    <string-array name="user">
+        <item>Select</item>
+        <item>SELF</item>
+        <item>Other Employee</item>
+        <item>Temporary Workforce</item>
+        <item>Visitor</item>
+    </string-array>
+</resources>
